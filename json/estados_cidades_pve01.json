@@ -1,0 +1,86 @@
+[{
+  "sigla": "BA",
+  "nome": "Bahia",
+  "cidades": [
+    "",
+    "Barro Alto",
+    "Cachoeira",
+    "Camaçari",
+    "Governador Mangabeira",
+    "Maragogipe",
+    "São Félix"
+  ]
+},
+{
+  "sigla": "GO",
+  "nome": "Goiás",
+  "cidades": [
+    "",
+    "Caçu",
+    "Niquelândia",
+    "Trindade"
+  ]
+},
+{
+  "sigla": "MG",
+  "nome": "Minas Gerais",
+  "cidades": [
+    "",
+    "Muriaé",
+    "Paracatu"
+  ]
+},
+{
+  "sigla": "MS",
+  "nome": "Mato Grosso do Sul",
+  "cidades": [
+    "",
+    "Corumbá",
+    "Ladário"
+  ]
+},
+{
+  "sigla": "PE",
+  "nome": "Pernambuco",
+  "cidades": [
+    "",
+    "Araripina",
+    "Itapissuma",
+    "Ouricuri",
+    "Santa Filomena",
+    "Trindade"
+  ]
+},
+{
+  "sigla": "PI",
+  "nome": "Piauí",
+  "cidades": [
+    "",
+    "Betânia do Piauí",
+    "Curral Novo do Piauí",
+    "Santa Filomena",
+    "Simões"
+  ]
+},
+{
+  "sigla": "RS",
+  "nome": "Rio Grande do Sul",
+  "cidades": [
+    "",
+    "Pinhal da Serra"
+  ]
+},
+{
+  "sigla": "SP",
+  "nome": "São Paulo",
+  "cidades": [
+    "",
+    "Angatuba",
+    "Araçariguama",
+    "Capão Bonito",
+    "Panorama",
+    "Registro",
+    "Rosana"
+]
+
+}]
